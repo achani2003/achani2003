@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Achani
 
-<!--
-**achani2003/achani2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student of Advanced Technological Institute, Badulla  
+📚 Following the Higher National Diploma in Information Technology (HNDIT)  
+💻 Passionate about Java and Web Development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- JSP
+- Swing
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Currently Learning
+- Java Web Development
+- JSP & Servlets
+- Database Management
+- Frontend Development
+
+## 📌 Projects
+- ATI Badulla Web Portal
+- Java Swing Applications
+- Web Development Projects
+
+## 🌱 Goal
+To become a professional Software Developer and improve my programming skills every day.
